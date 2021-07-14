@@ -5,6 +5,8 @@ date: 2021-07-13
 tags: [aws, terraform, cloud]
 ---
 
+The code used in this tutorial can be found [here](https://github.com/Jneville0815/aws-tutorial).
+
 There are many tutorials online that show you how to spin up an EC2 instance on AWS using Terraform and SSH into the instance, but most of these tutorials assume that you will be using a default VPC or a VPC that has already been created. This tutorial will start from scratch, showing every AWS service needed along the way, and eventually spin up an EC2 instance that will display “Hello, World!” in your browser. You will also be able to SSM into the instance after it is deployed.
 
 The steps that will be covered are as follows:
