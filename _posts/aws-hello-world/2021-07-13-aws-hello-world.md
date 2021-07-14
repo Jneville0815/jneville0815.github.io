@@ -21,6 +21,7 @@ The steps that will be covered are as follows:
 -   Create an EC2 instance and put it in your Subnet
 -   Deploy Resources
 -   SSM into EC2
+-   Conclusion
 
 Let’s get started!
 
