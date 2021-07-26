@@ -2,7 +2,7 @@
 layout: post
 title: Linear Regression
 date: 2020-04-07
-tags: [machine-learning]
+tags: [machine-learning, linear-regression]
 ---
 
 Linear regression is one of the most well-known machine learning algorithms. Most people interested in machine learning will study this algorithm first. In this tutorial we're going to take a look at the math involved in the algorithm while also learning some basic machine learning terminology.
@@ -126,5 +126,3 @@ You can now plug any potential value in for $$x$$ (size) to find the estimated p
 ## Conclusion
 
 Many high level languages provide libraries that have functions to do the math needed for linear regression (and many other algorithms). Still, I believe it's important to know what's going on inside of the functions. Who wants to plug numbers into a function and have absolutely no idea how the output is generated? It helps to have a basic understanding of the math involved, and I hope that this tutorial was able to provide you with that.
-
-Check out the <a href="" class="in-text-link">next tutorial</a> on Logistic Regression.
