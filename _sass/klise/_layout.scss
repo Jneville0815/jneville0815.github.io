@@ -190,15 +190,12 @@
   }
 
   .author-avatar {
-    width: 70px;
-    height: 70px;
-    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    border-radius: 15%;
     user-select: none;
-    background-color: $black;
     -ms-user-select: none;
     -webkit-user-select: none;
-    -webkit-animation: 0.5s ease-in forwards fadein;
-    animation: 0.5s ease-in forwards fadein;
     opacity: 1;
   }
 
