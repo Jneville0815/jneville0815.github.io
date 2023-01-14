@@ -5,7 +5,7 @@ date: 2023-01-13
 tags: [weekly-update]
 ---
 
-About 6 years ago I started listening to podcasts in the self development realm, and about 2 years ago I decided that I would start my own podcast once I had the bandwidth.
+About 6 years ago I started listening to podcasts in the personal development realm, and about 2 years ago I decided that I would start my own podcast once I had the bandwidth.
 
 Now is the time.
 
