@@ -7,7 +7,7 @@ tags: [weekly-update]
 
 This week I have been putting a lot of time and thought into how to approach the podcast.
 
-As I interview people, I want to shine alight on them and help them express their ideas in a way that everyone can understand. I also want to make sure that I'm bringing the unique aspects of my personality and experience to the conversation.
+As I interview people, I want to shine a light on them and help them express their ideas in a way that everyone can understand. I also want to make sure that I'm bringing the unique aspects of my personality and experience to the conversation.
 
 I have reached out to several potential guests this week and have heard back from a few of them. I am hoping to get their interview scheduled and recorded as soon as possible.
 
