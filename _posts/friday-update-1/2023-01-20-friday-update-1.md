@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday Update - Finding People To Interview
+title: Friday Update 2 - Finding People To Interview
 date: 2023-01-20
 tags: [weekly-update]
 ---

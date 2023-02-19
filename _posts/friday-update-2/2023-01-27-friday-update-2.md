@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday Update - First Two Interviews
+title: Friday Update 3 - First Two Interviews
 date: 2023-01-27
 tags: [weekly-update]
 ---

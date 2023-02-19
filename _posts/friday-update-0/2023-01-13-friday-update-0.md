@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday Update - Creating A Podcast
+title: Friday Update 1 - Creating A Podcast
 date: 2023-01-13
 tags: [weekly-update]
 ---

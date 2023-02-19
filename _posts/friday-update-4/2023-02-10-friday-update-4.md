@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday Update - Finding My Groove
+title: Friday Update 5 - Finding My Groove
 date: 2023-02-10
 tags: [weekly-update]
 ---

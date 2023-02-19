@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday Update - Living In The Moment
+title: Friday Update 4 - Living In The Moment
 date: 2023-02-03
 tags: [weekly-update]
 ---

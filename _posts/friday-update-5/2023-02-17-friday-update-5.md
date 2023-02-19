@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday Update - Filling The Schedule
+title: Friday Update 6 - Filling The Schedule
 date: 2023-02-17
 tags: [weekly-update]
 ---
