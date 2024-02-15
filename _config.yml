@@ -1,6 +1,6 @@
 title: Jimmy Neville
 description: >-
-  Software Engineer
+  All things disc golf
 lang: en-US
 timezone: Asia/Jakarta
 image: assets/img/ogp.png
@@ -9,13 +9,13 @@ mode: dark
 author:
   name: Jimmy Neville
   bio: >-
-    Software Engineer
+    All things disc golf
   username: username
   github: Jneville0815
   twitter: jimmyeneville
   facebook: facebook_username
   email: your-email@email.com
-  avatar: /assets/img/me.png
+  avatar: /assets/img/me.jpeg
 url: ""
 baseurl: "/"
 permalink: "/:title/"

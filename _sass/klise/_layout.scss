@@ -190,13 +190,20 @@
   }
 
   .author-avatar {
-    width: 150px;
-    height: 150px;
-    border-radius: 15%;
-    user-select: none;
-    -ms-user-select: none;
-    -webkit-user-select: none;
-    opacity: 1;
+    width: 150px; /* Adjust the size as needed */
+    height: 150px; /* Maintain the aspect ratio for a circle */
+    border-radius: 50%; /* Full roundness for a circular avatar */
+    user-select: none; /* Prevents the user from selecting the image */
+    -ms-user-select: none; /* Prevents the user from selecting the image in IE/Edge */
+    -webkit-user-select: none; /* Prevents the user from selecting the image in Safari */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
+    border: 3px solid #ffffff; /* White border for contrast against background */
+    object-fit: cover; /* Ensures the image covers the area without stretching */
+    transition: transform 0.3s ease; /* Smooth transition for any transformations */
+  }
+
+  .author-avatar:hover {
+    transform: scale(1.05); /* Slightly enlarge on hover for emphasis */
   }
 
   .author-name {
